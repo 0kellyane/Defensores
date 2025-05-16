@@ -1,6 +1,6 @@
 # 🛡️ Defensores da Terra
 
-Este projeto é uma adaptação de um código originalmente em inglês, encontrado no GitHub, chamado **"Defenders of the Earth"**. 
+Este projeto é uma adaptação de um código originalmente em inglês, encontrado no GitHub: (Repositório Original)[https://github.com/sanyog2005/DEFENDERS-OF-THE-EARTH-S-RIM/blob/main/FINAL%20computer%20science%20COMPLETE%20PROJECT%20%20.py], chamado **"Defenders of the Earth"**. 
 
 A adaptação foi feita como parte de uma atividade da disciplina de **Linguagem de Programação**.
 
